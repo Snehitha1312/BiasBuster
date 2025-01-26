@@ -13,6 +13,7 @@ The primary goal of the game is to design and develop a self-driving car AI syst
 - **Ethical AI Education**: The game educates players on critical aspects of the EU AI Act, such as transparency, fairness, privacy, and robustness.
 - **Challenging Gameplay**: Creative mechanics simulate real-world AI challenges, including data inconsistency, adversarial attacks, and bias detection.
 - **Feedback and Awareness**: Each level ends with a detailed summary panel that explains the importance of the tasks performed and how they align with ethical AI development principles.
+- At the end of Chapter 4, if the car does not hit anyone, there is no bias, and the player is successful. Players should strive to improve their points accordingly
 
 ---
 
