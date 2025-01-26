@@ -27,6 +27,18 @@ The primary goal of the game is to design and develop a self-driving car AI syst
 - **Types of Coins**:
   - **Green Coins (Consented Data)**: Ethically sourced data with proper consent. These coins ensure compliance with the EU AI Act principles like transparency, fairness, and privacy.
   - **Red Coins (Unconsented Data)**: Private, unconsented data. Collecting these coins might offer higher immediate rewards but carries significant risks, such as legal penalties and reputational damage.
+- At the end of this level a panel is shown with a summary of the coins collected and the consequences of collecting private data.
+    ![Screenshot 2025-01-27 002744](https://github.com/user-attachments/assets/db4561dd-456c-4178-82fa-fe7b313f1f9a)
+    ![Screenshot 2025-01-27 002826](https://github.com/user-attachments/assets/84ebe6c5-febd-401d-9e81-710a5f5b9ffd)
+    ![Screenshot 2025-01-27 002926](https://github.com/user-attachments/assets/97f9d126-251b-436e-8d15-ead101b506b0)
+    ![Screenshot 2025-01-27 003008](https://github.com/user-attachments/assets/a5900bc4-9c13-49cb-b1fc-9e0b6430a872)
+
+
+
+
+
+
+
 
 
 ---
