@@ -29,6 +29,8 @@ The primary goal of the game is to design and develop a self-driving car AI syst
   - **Red Coins (Unconsented Data)**: Private, unconsented data. Collecting these coins might offer higher immediate rewards but carries significant risks, such as legal penalties and reputational damage.
 ![image](https://github.com/user-attachments/assets/171e8676-cfb7-46f5-bbfa-9a46112144b9)
 ![image](https://github.com/user-attachments/assets/4b32f2de-967a-49d0-a588-220128597b16)
+![image](https://github.com/user-attachments/assets/43f36ccd-9733-4387-883d-ea0a9b42dcde)
+![image](https://github.com/user-attachments/assets/3e39c0be-f70d-4f07-ac47-cbd0de0bcb41)
 
 ---
 
