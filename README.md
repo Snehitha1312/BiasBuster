@@ -72,11 +72,11 @@ The primary goal of the game is to design and develop a self-driving car AI syst
 
 ## Contributions
 
-| Contributor        | Levels Contributed | Other Contributions         |
-|--------------------|--------------------|-----------------------------|
-| **Snehitha**       | Level 3           | Documentation               |
-| **Greeshma**       | Level 3           | Documentation               |
-| **Sahiti**         | Level 1, Level 4  |                             |
-| **Ikshitha**       | Level 1, Level 4  |                             |
-| **Aishwarya**      | Level 2           |                             |
-| **Bilwani**        | Level 2           |                             |
+| Contributor        | Levels Contributed |         
+|--------------------|--------------------|
+| **Snehitha**       | Level 3, Documentation          | 
+| **Greeshma**       | Level 3 ,Documentation          | 
+| **Sahiti**         | Level 1, Level 4  |                             
+| **Ikshitha**       | Level 1, Level 4  |                             
+| **Aishwarya**      | Level 2           |                             
+| **Bilwani**        | Level 2           |                             
