@@ -87,6 +87,12 @@ The primary goal of the game is to design and develop a self-driving car AI syst
 - **Purpose**: Highlight the importance of unbiased AI models that treat all individuals fairly, aligning with ethical AI principles and the **EU AI Act**.
 
 ---
+## How to Play
+
+- Download zip file and extract to another folder.
+- Open BiasBuster.exe in Buid folder.
+- To exit,press Windows icon and close it.
+---
 
 ## Contributions
 
