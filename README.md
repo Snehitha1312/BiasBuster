@@ -1,5 +1,5 @@
 # BiasBuster
-# Ethical AI System Game Overview
+# Game Overview
 
 This game immerses players in the exciting journey of developing an ethical AI system for a self-driving car. Each level focuses on a critical phase of AI development, emphasizing compliance with the **EU AI Act** and educating players on ethical and technical best practices. Players progress by overcoming challenges related to **data collection**, **cleaning**, **security**, and **bias testing**, ensuring their AI system is transparent, fair, and robust.
 
