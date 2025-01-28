@@ -53,6 +53,12 @@ The primary goal of the game is to design and develop a self-driving car AI syst
   - Highlight the importance of data cleaning to ensure AI model accuracy and performance.
   - Educate players on how errors in data can lead to poor outcomes in AI models.
 - **End of Chapter**: Successfully cleaning all the traffic signals takes the player to the next level.
+  ![Screenshot 2025-01-29 011859](https://github.com/user-attachments/assets/74dd25ca-24d9-4750-b832-aa299177dc27)
+![Screenshot 2025-01-29 011918](https://github.com/user-attachments/assets/b5f073ee-d438-4da1-9c86-cfbb5529f12c)
+![Screenshot 2025-01-29 011933](https://github.com/user-attachments/assets/775430e9-a2be-4e07-a525-6797c13b1dba)
+
+
+
 
 ---
 
@@ -85,6 +91,11 @@ The primary goal of the game is to design and develop a self-driving car AI syst
   - **Detection and Recognition**: Assess the AI system's ability to detect pedestrians, traffic signals, and obstacles in the environment for all cases.
   - **Decision-making**: Evaluate if the AI system responds consistently and fairly across all cases, without bias.
 - **Purpose**: Highlight the importance of unbiased AI models that treat all individuals fairly, aligning with ethical AI principles and the **EU AI Act**.
+![Screenshot 2025-01-29 011956](https://github.com/user-attachments/assets/719a5f15-57d1-4f1c-a55c-85ec11c3c539)
+![Screenshot 2025-01-29 012029](https://github.com/user-attachments/assets/6cd15404-d893-4892-ad48-357f50b9eea8)
+
+![Screenshot 2025-01-29 012046](https://github.com/user-attachments/assets/806bda7f-585e-4a22-9558-4b0170c582b8)
+
 
 ---
 ## How to Play
@@ -100,7 +111,7 @@ The primary goal of the game is to design and develop a self-driving car AI syst
 |--------------------|--------------------|
 | **Snehitha**       | Level 3, Documentation          | 
 | **Greeshma**       | Level 3 ,Documentation          | 
-| **Sahiti**         | Level 1 |                             
+| **Sahiti**         | Level 1,Debugging |                             
 | **Ikshitha**       |  Level 4  |                             
 | **Aishwarya**      | Level 2           |                             
 | **Bilwani**        | Level 2           |                             
